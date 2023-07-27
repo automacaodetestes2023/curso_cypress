@@ -1,0 +1,19 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "Projeto de testes curso cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automacaodetestes2023/curso_cypress_turma2.git"
+  },
+  "author": "Thiago de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/automacaodetestes2023/curso_cypress_turma2/issues"
+  },
+  "homepage": "https://github.com/automacaodetestes2023/curso_cypress_turma2#readme"
+}
