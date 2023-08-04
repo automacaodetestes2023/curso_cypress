@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/automacaodetestes2023/curso_cypress_turma2/issues"
   },
-  "homepage": "https://github.com/automacaodetestes2023/curso_cypress_turma2#readme"
+  "homepage": "https://github.com/automacaodetestes2023/curso_cypress_turma2#readme",
+  
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
 }
