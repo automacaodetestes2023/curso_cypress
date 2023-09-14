@@ -4,7 +4,7 @@
   "description": "Projeto de testes curso cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "open": "npx cypress open"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,10 @@
     "url": "https://github.com/automacaodetestes2023/curso_cypress_turma2/issues"
   },
   "homepage": "https://github.com/automacaodetestes2023/curso_cypress_turma2#readme",
-  
   "devDependencies": {
     "cypress": "^12.17.3"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
   }
 }
