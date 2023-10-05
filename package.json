@@ -4,7 +4,8 @@
   "description": "Projeto de testes curso cypress",
   "main": "index.js",
   "scripts": {
-    "open": "npx cypress open"
+    "open": "npx cypress open",
+    "testes": "cypress run --headless --browser chrome"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,8 @@
   },
   "homepage": "https://github.com/automacaodetestes2023/curso_cypress_turma2#readme",
   "devDependencies": {
-    "cypress": "^12.17.4"
+    "cypress": "^12.17.4",
+    "cypress-mochawesome-reporter": "^3.6.0"
   },
   "dependencies": {
     "faker-br": "^0.4.1"
