@@ -12,7 +12,6 @@ module.exports = defineConfig({
     embeddedScreenshots: true,
     autoOpen: true,
   },
-
   video: false,
 
   e2e: {
