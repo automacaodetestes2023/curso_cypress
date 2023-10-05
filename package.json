@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/automacaodetestes2023/curso_cypress_turma2#readme",
   "devDependencies": {
-    "cypress": "^12.17.3"
+    "cypress": "^12.17.4"
   },
   "dependencies": {
     "faker-br": "^0.4.1"
